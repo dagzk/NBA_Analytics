@@ -5,7 +5,6 @@ Who are the top undervalued players based on their court position that are curre
 What This Notebook Shows:
 Use of NBA REST API and web scraping Basketball Reference
 Analyzing and discussing the NBA stats
-Making an undervalued all-star team
-Using machine learning to predict winning chances
+Making an undervalued all-star team using machine learning to predict winning chances
 Conclusion, recommendations
 Articles & references related to this project
