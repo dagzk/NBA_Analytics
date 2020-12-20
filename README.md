@@ -9,3 +9,5 @@ What This Notebook Shows:
 - Making an undervalued all-star team using machine learning to predict winning chances
 - Conclusion, recommendations
 - Articles & references related to this project
+
+#### Use link https://nbviewer.jupyter.org/github/dagzk/NBA_Analytics/blob/master/NBA_Analytics_Project.ipynb to read Notebook with Interactive Plotly Graphs.
